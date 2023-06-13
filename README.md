@@ -10,5 +10,5 @@ Sonuçları aşağıda yer almaktadır:
  
 # Teknofest Görev Tespiti:
  
-https://github.com/sevvalkapcak/YOLOv5-ile-Nesne-Tanima/blob/main/yolov5/sonu%C3%A7/NQKAE5880.MOV
+![video](https://github.com/sevvalkapcak/YOLOv5-ile-Nesne-Tanima/blob/main/yolov5/sonu%C3%A7/NQKAE5880.MOV)
 
