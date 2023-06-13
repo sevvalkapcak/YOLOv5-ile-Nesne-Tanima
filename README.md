@@ -1,5 +1,6 @@
 # YOLOv5 ile Nesne Tanıma
-YOLOv5 modeli ile Roboflow bağlantılı Google Colaboratory'de H harfinin tespiti için eğitim gerçekleştirilmiştir. Oluşan ağırlıklarla PyTorch framework'ü sayesinde fotoğraf, video ve webcam üzerinde test edilmiştir. Sonuçları aşağıda yer almaktadır.
+YOLOv5 modeli ile Roboflow bağlantılı Google Colaboratory'de H harfinin tespiti için eğitim gerçekleştirilmiştir. Oluşan ağırlıklarla PyTorch framework'ü sayesinde fotoğraf, video ve webcam üzerinde test edilmiştir. 
+Sonuçları aşağıda yer almaktadır:
 
 ![1](https://github.com/sevvalkapcak/YOLOv5-ile-Nesne-Tanima/assets/73191933/73c7f81d-14a8-473e-bd4a-36987dcf8994)
 
